@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    line-height: normal;
+    background-color: #1a2440;
+    
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-gabriela: Gabriela;
+    --font-new-york-large: "New York Large";
+    --font-sharpe-personal: "Sharpe PERSONAL";
+  
+    /* font sizes */
+    --font-size-xs: 0.75rem;
+    --font-size-45xl: 4rem;
+    --font-size-mini: 0.94rem;
+    --font-size-xl: 1.25rem;
+    --font-size-3xs: 0.63rem;
+    --font-size-base: 1rem;
+    --font-size-lg-6: 1.16rem;
+    --font-size-smi-9: 0.81rem;
+    --font-size-9xl: 1.75rem;
+    --font-size-31xl: 3.13rem;
+    --font-size-lgi: 1.19rem;
+  
+    /* Colors */
+    --color-gray-100: #1a2440;
+    --color-darkgray-100: #a5a5a5;
+    --color-darkgray-200: rgba(165, 165, 165, 0.31);
+    --color-mediumspringgreen: #00e5a1;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-aliceblue: #ebfaff;
+    --color-mediumseagreen: #0ea57a;
+    --color-ghostwhite: #f3f4f9;
+    --color-gainsboro: #e3e3e3;
+  
+    /* Border radiuses */
+    --br-41xl: 60px;
+    --br-4xs: 9px;
+    --br-5xs: 8px;
+    --br-mid: 17px;
+  }
+  
